@@ -1,6 +1,8 @@
 import pickle
 import tensorflow as tf
+import numpy as np
 # TODO: import Keras layers you need here
+from keras.layers import Input, Flatten, Dense
 from keras.models import Sequential
 
 
